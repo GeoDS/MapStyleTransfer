@@ -17,7 +17,7 @@ Kang, Y., Gao, S. and Roth, R.E., 2019. [Transferring multiscale map styles usin
               year={2019},
                 publisher={Taylor \& Francis}
                 }
-                ```
+```
 
                 <!-- ABOUT THE PROJECT -->
                 ## Data Sources:
