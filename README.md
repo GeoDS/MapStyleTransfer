@@ -1,4 +1,4 @@
-# Transferring multiscale map styles using generative adversarial networks
+# Map Style Transfer
 
 <!-- Reference -->
 ## Reference
